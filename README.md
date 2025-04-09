@@ -1,5 +1,5 @@
 # **PRACTICA3 CURSO GITHUB**
-![Lo conseguí!](C:\Users\Ainhoa\Pictures\Inf.jpg)
+![Lo conseguí!](C:\Usuarios\Ainhoa\imagenes\Inf.jpg)
 ## OBJETIVO
 Subir nuestro repositorio a GitHub
 ## ENTREGA
